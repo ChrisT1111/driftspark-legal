@@ -10,4 +10,4 @@ This repository is intentionally public so it can be referenced from app store l
 
 ## Contact
 
-For privacy or legal questions: **christhoen@hotmail.com**
+For privacy or legal questions: **driftspark.labs.app@gmail.com**

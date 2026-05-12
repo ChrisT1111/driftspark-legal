@@ -5,7 +5,7 @@
 
 This Privacy Policy describes how the mobile application *Chess Coach: Openings* (the "App") handles your information. The App is published by Driftspark Labs ("we", "us"), an independent developer based in Belgium.
 
-If you have any questions about this Policy, contact us at **christhoen@hotmail.com**.
+If you have any questions about this Policy, contact us at **driftspark.labs.app@gmail.com**.
 
 ## TL;DR
 
@@ -75,4 +75,4 @@ We may update this Privacy Policy from time to time. Material changes will be co
 
 Driftspark Labs
 Belgium
-Email: **christhoen@hotmail.com**
+Email: **driftspark.labs.app@gmail.com**
