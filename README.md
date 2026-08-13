@@ -7,6 +7,10 @@ This repository is intentionally public so it can be referenced from app store l
 ## Documents
 
 - [Privacy Policy](privacy-policy.md) — for *Chess Coach: Openings*
+- [Privacy Policy](chess-puzzles-privacy.md) — for *Chess Coach: Puzzles*
+
+Each app has its own document. Keep them separate: a change to one app's policy
+must not be made by editing the other's file.
 
 ## Contact
 
